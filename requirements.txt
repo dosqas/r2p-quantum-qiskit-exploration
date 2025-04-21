@@ -1,6 +1,9 @@
 # Core quantum computing framework
 qiskit
 
+# For interacting with IBM Quantum's runtime services
+qiskit-ibm-runtime
+
 # Required for rendering LaTeX in Qiskit visualizations
 pylatexenc
 
