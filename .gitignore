@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime files
+*.nbconvert.ipynb
+
+# Hidden files
+.DS_Store
+*.swp
+*~
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# VSCode settings
+.vscode/
+
+# MacOS and Linux trash
+.Trash-*
+
+# Compiled Cython files
+*.c
+*.cpp
+*.so
+
+# IPython history and profile
+.ipython/
+.history
+
+# Jupyter notebook metadata
+*.nbmetadata
+
+# Local data and logs
+*.log
+*.out
+*.bak
+*.tmp
+
+# Environment & dependency tools
+poetry.lock
+Pipfile.lock
+*.egg-info/
+
+# Custom data/results folders (optional — remove if you want to track them)
+data/
+results/
+outputs/
