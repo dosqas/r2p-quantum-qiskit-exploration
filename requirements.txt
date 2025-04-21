@@ -1,6 +1,9 @@
 # Core quantum computing framework
 qiskit
 
+# For additional visualization tools in Qiskit (e.g., circuit and state visualizations)
+qiskit[visualization]
+
 # For interacting with IBM Quantum's runtime services
 qiskit-ibm-runtime
 
