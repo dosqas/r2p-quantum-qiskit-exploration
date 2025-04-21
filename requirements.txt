@@ -7,5 +7,8 @@ pylatexenc
 # For plotting histograms, statevectors, and other visualizations
 matplotlib
 
+# For advanced statistical data visualization
+seaborn
+
 # Jupyter Notebook interface to run and view the .ipynb files
 notebook
