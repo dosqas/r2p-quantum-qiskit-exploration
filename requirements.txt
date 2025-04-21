@@ -1,0 +1,11 @@
+# Core quantum computing framework
+qiskit
+
+# Required for rendering LaTeX in Qiskit visualizations
+pylatexenc
+
+# For plotting histograms, statevectors, and other visualizations
+matplotlib
+
+# Jupyter Notebook interface to run and view the .ipynb files
+notebook
