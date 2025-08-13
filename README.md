@@ -2,7 +2,7 @@
 
 Welcome to my personal repository documenting my progress through the **Road to Practitioner (R2P)** program by IBM Quantum during **Spring–Summer 2025**.
 
-This repo contains all the Jupyter notebooks, exercises, and notes I've worked on as part of this hands-on learning experience — covering the fundamentals of **quantum computing** and **Qiskit**.
+This repo contains all the Jupyter notebooks, exercises, and notes I've worked on as part of this hands-on learning experience, covering the fundamentals of **quantum computing** and **Qiskit**.
 
 ---
 
@@ -31,7 +31,6 @@ Learn more here: [IBM Quantum Learning Platform](https://quantum.ibm.com/)
 - 🧪 **Quantum Circuits** – Example circuits using Qiskit (e.g., Bell, GHZ, W states)  
 - 🧠 **Concepts Covered** – Superposition, entanglement, gates, measurement, noise, etc.  
 - 🧰 **Transpilation & Optimization** – Using pass managers and working with real hardware  
-- 🧑‍💻 **Capstone Project** (TBD) – Final project to demonstrate applied knowledge
 
 ---
 
@@ -41,7 +40,7 @@ If you'd like to explore or run the notebooks:
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/dosqas/R2P-Quantum-Qiskit-Exploration.git
+   git clone https://github.com/dosqas/r2p-quantum-qiskit-exploration.git
    ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -64,17 +63,23 @@ If you'd like to explore or run the notebooks:
 
 ## 💡 Why I’m Doing This
 
-Quantum computing is a rapidly emerging field with the potential to transform industries. Through R2P, I'm building a strong foundation in both theory and practice to contribute to this exciting space — and this repo is my way of documenting that journey.
+Quantum computing is a rapidly emerging field with the potential to transform industries. Through R2P, I'm building a strong foundation in both theory and practice to contribute to this exciting space, and this repo is my way of documenting that journey.
 
 ---
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
-Thanks to IBM Quantum and the Qiskit team for creating the **R2P program** and providing hands-on access to quantum computing resources!
+* Thanks to IBM Quantum, the Freeya Mind Campus project and the Qiskit team for creating the **R2P program** and providing hands-on access to quantum computing resources!
+* Special thanks to my teacher **Tudor-Dan Mihoc** for supporting my participation and helping me deepen my quantum skills.
 
 ---
 
-## 📬 Contact
+## 📄 License
 
-Feel free to reach out if you’re also on this path or interested in collaborating!  
-📧 [sebastian.soptelea@proton.me]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 💡 Contact
+
+Questions, feedback, or ideas? Reach out anytime at [sebastian.soptelea@proton.me](mailto:sebastian.soptelea@proton.me).
